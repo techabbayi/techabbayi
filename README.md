@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Data Sceince and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [projects] https://github.com/techabbayi
-
+- 👨‍💻 All of my projects are available at [projects](https://github.com/techabbayi)
+  
 - 🔭 Here is my portfolio [https://www.akmultivison.xyz/home.html](https://www.akmultivison.xyz/home.html)
 
 - 📫 How to reach me **rp1719564@gmail.com**
